@@ -107,7 +107,7 @@ class App{
 		// Load a glTF resource
 		loader.load(
 			// resource URL
-			'VR_Museum.glb',
+			'model1.glb',
 			// called when the resource is loaded
 			function ( gltf ) {
 
